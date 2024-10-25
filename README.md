@@ -5,6 +5,8 @@
 - 📫 How to reach me by using my profile
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I do everything with fun
+- portfolio : https://shorturl.at/WAoaJ
+  
 
 <!---
 kousik189/kousik189 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
