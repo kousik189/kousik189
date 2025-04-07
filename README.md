@@ -5,7 +5,7 @@
 - 📫 How to reach me by using my profile
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I do everything with fun
-- portfolio : https://shorturl.at/WAoaJ
+
   
 
 <!---
